@@ -1,10 +1,10 @@
-package com.mibi.expensesmanagger
+package com.mibi
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
-class ExpensesManaggerApplicationTests {
+class ExpensesManagerApplicationTests {
 
     @Test
     fun contextLoads() {

@@ -1,11 +1,11 @@
-package com.mibi.expensesmanagger
+package com.mibi
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class ExpensesManaggerApplication
+class ExpensesManagerApplication
 
 fun main(args: Array<String>) {
-    runApplication<ExpensesManaggerApplication>(*args)
+    runApplication<ExpensesManagerApplication>(*args)
 }
